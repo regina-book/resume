@@ -85,7 +85,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h4 {
@@ -206,6 +206,8 @@ ul, ol, dl {
 ul li {
   list-style: inside;
   padding-left: 20px;
+  font-style: normal;
+  text-indent: -16px;
 }
 
 ol li {
@@ -215,6 +217,11 @@ ol li {
 
 dl dt {
   font-weight: bold;
+  background: #FFF;
+  border-radius:10px;
+  border: 1px solid #D3D3D3;
+  padding-left: 10px;
+  font-size: 20px;
 }
 
 dl dd {
@@ -374,7 +381,7 @@ Full-Width Styles
   background: #212121;
 }
 
-
+span.company{color:#999}
 
 /*******************************************************************************
 Small Device Styles
