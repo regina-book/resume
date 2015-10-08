@@ -24,7 +24,7 @@ http://winwu.github.io/resume
 * write jQuery to get JSON data then pass data to view
 * Front End tools like Grunt or Gulp
 
-### Frontend Web Developer at FriendFinder Networks Inc.(July 2012 - July 2013)
+### Frontend Web Developer - FriendFinder Networks Inc.(July 2012 - July 2013)
 `junior`, `CodeIgniter`, `html`, `css`, `javascript`
 
 * HTML,CSS,JavaScript,CodeIgniter(PHP) 
@@ -50,7 +50,7 @@ http://winwu.github.io/resume
 
 
 ## Certifications 證照
-### [2015 Bing Ads Accredited Professional]
+### Bing Ads Accredited Professional
   * [link](http://www.google.com/url?q=http%3A%2F%2Fadvertise.bingads.microsoft.com%2Fzh-tw%2Fxunlian-zigejianding-xun-zhao-zhuanyerenshi-mulu%3FMemberID%3D2c336ab9-dedc-4b1d-82ef-8b46b0bf08e7&sa=D&sntz=1&usg=AFQjCNF154QbqxRZxVdaTmnbP-Oxq24KMw)
 
 ### Analytics Certification
