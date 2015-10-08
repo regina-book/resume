@@ -4,11 +4,20 @@ Win Wu Resume
 http://winwu.github.io/resume
 
 ## Summary 簡介
-1990 年出生，Web 開發經驗約略 `3~4` 年，經歷過前端跟後端的開發過程，目前主要使用的語言是 PHP，框架是 Laravel，曾經接觸過的專案為一般形象網站，活動網站，內部系統，Joomla 架站，Facebook API 串接等，至今作品約 `20~25` 件，近期可對外作品約 `3~5` 件。部署經驗略熟 AWS, DigitalOcean，使用 ubunut 設定 Nginx, Apache 伺服器。
+1990 年出生，Web 開發經驗約略 `3~4` 年，經歷過設計切版，前端跟後端的開發過程，曾經寫過 Node.js, PHP，但目前主要使用的語言是 PHP，框架是 Laravel。接觸過的專案為一般形象網站，活動網站，內部系統，Joomla 架站，Facebook API 串接等，至今作品約 `20~25` 件，近期可對外作品約 `3~5` 件，平常會學習一些其他的程式語言，但只是略懂而已。
 
+* 部署經驗略熟 AWS, DigitalOcean，使用 ubunut 設定 Nginx, Apache 伺服器。
+* 執行過棘手的案件是半小時內約一千人湧入 Server 造成 Server 掛掉的問題(但非我個人功勞)。
+* 待過最多人的 Team 大約是 12-15 人左右，成員包含前後端工程師, QA, Product Manager 以及 IT Manager; 最少人的 Team 則是三人。
+* 至今還沒有讓自己最滿意的作品。
+* 版本控制使用 `Github`, `Bitbucket`。
+* 近期在學習如何把 PHP 寫得更好，以及寫測試。
+
+---
 * Github: winwu
 * Blog: blog.winwu.today
 * Behance: www.behance.net/winwu
+---
 
 ## Experience
 ### Web Engineer - urAD Inc. (June 2014 – Present)
