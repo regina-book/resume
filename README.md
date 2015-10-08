@@ -4,7 +4,7 @@ Win Wu Resume
 http://winwu.github.io/resume
 
 ## Summary 簡介
-1990 年出生，Web 開發經驗約略 `3~4` 年，經歷過前端跟後端的開發過程，目前主要使用的語言是 PHP，曾經接觸過的專案為一般形象網站，活動網站，內部系統，Joomla 架站，Facebook API 串接等，至今作品約 `20~25` 件，近期可對外作品約 `3~5` 件。
+1990 年出生，Web 開發經驗約略 `3~4` 年，經歷過前端跟後端的開發過程，目前主要使用的語言是 PHP，框架是 Laravel，曾經接觸過的專案為一般形象網站，活動網站，內部系統，Joomla 架站，Facebook API 串接等，至今作品約 `20~25` 件，近期可對外作品約 `3~5` 件。部署經驗略熟 AWS, DigitalOcean，使用 ubunut 設定 Nginx, Apache 伺服器。
 
 * Github: winwu
 * Blog: blog.winwu.today
@@ -53,7 +53,7 @@ http://winwu.github.io/resume
 ### Bing Ads Accredited Professional
   * [link](http://www.google.com/url?q=http%3A%2F%2Fadvertise.bingads.microsoft.com%2Fzh-tw%2Fxunlian-zigejianding-xun-zhao-zhuanyerenshi-mulu%3FMemberID%3D2c336ab9-dedc-4b1d-82ef-8b46b0bf08e7&sa=D&sntz=1&usg=AFQjCNF154QbqxRZxVdaTmnbP-Oxq24KMw)
 
-### Analytics Certification
+### Google Analytics Certification
 * Google February 2015 to August 2016
 
 ### TOEIC
