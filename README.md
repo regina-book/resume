@@ -17,6 +17,7 @@ http://winwu.github.io/resume
 * Github: winwu
 * Blog: blog.winwu.today
 * Behance: www.behance.net/winwu
+
 ---
 
 ## Experience
